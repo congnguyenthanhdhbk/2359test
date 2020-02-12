@@ -1,3 +1,6 @@
+necvn.udemy.com
+sangtt@nec.vn
+MetRoiNha0418 
 # 2359test
 Code assignment Java developer v2.0
 Welcome to the code assignment of Singtel. You are expected to spend 1 to 1.5 hours on
